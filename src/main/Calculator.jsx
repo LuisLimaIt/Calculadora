@@ -5,7 +5,7 @@ import Button from '../components/Button'
 import Display from '../components/Display'
 
 const initialState = {
-    displayValue: 0,
+    displayValue: '0',
     clearDisplay: false,
     operation: null,
     values: [0, 0],
